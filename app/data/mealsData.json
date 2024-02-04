@@ -1,0 +1,29 @@
+{
+    "college_student_meals": [
+      {
+        "meal_name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "olive oil", "spices"],
+        "average_price": 8.99
+      },
+      {
+        "meal_name": "Chicken Stir Fry",
+        "ingredients": ["chicken breast", "vegetables (broccoli, bell peppers, carrots)", "soy sauce", "garlic", "ginger", "sesame oil"],
+        "average_price": 9.99
+      },
+      {
+        "meal_name": "Vegetarian Burrito Bowl",
+        "ingredients": ["rice", "black beans", "corn", "salsa", "guacamole", "lettuce", "cheese"],
+        "average_price": 7.99
+      },
+      {
+        "meal_name": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "butter", "cheddar cheese"],
+        "average_price": 4.99
+      },
+      {
+        "meal_name": "Instant Ramen with Egg",
+        "ingredients": ["instant ramen noodles", "egg", "green onions", "soy sauce"],
+        "average_price": 2.99
+      }
+    ]
+  }
